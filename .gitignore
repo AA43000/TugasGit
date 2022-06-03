@@ -5,4 +5,4 @@
 build/ # abaikan semua file didalam direktori build/ termasuk didalam subdirektorinya
 doc/*.txt # abaikan doc/notes.txt, tetapi tidak dengan doc/server/arch.txt
 
-/rahasia
+rahasia/rahasia.txt
